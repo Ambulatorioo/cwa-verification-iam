@@ -1,4 +1,5 @@
-name: ci-master
+name: babbo
+
 on:
   workflow_dispatch:
   push:

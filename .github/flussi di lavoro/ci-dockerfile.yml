@@ -1,4 +1,5 @@
-name: ci-dockerfile
+name: paperone
+
 on:
   push:
     branches:
